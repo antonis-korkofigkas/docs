@@ -82,7 +82,7 @@ Install all dependencies:
 Dependency for Ogre:
 
 ```bash
-brew cask install xquartz
+brew install xquartz --cask
 ```
 
 General dependencies:
